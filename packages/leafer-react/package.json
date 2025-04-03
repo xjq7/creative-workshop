@@ -1,0 +1,30 @@
+{
+  "name": "leafer-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@leafer-in/arrow": "^1.5.2",
+    "@leafer-in/editor": "^1.5.2",
+    "@leafer-in/export": "^1.5.2",
+    "@leafer-in/find": "^1.5.2",
+    "@leafer-in/text-editor": "^1.5.2",
+    "@leafer-in/view": "^1.5.2",
+    "@leafer-in/viewport": "^1.5.2",
+    "leafer-ui": "^1.5.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.12",
+    "react": "^19.1.0"
+  },
+  "peerDependencies": {
+    "@types/react": "^19.0.12",
+    "react": "^19.1.0"
+  }
+}
